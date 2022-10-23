@@ -1,0 +1,7 @@
+.body{
+    background-image: url("https://img.freepik.com/free-vector/ocean-sea-beach-nature-tranquil-landscape_33099-2248.jpg?w=900&t=st=1666435127~exp=1666435727~hmac=8c5d2adc97b584e450cc30fcd149d4ca58f5cb1407606049a04f678a0dc3a84c");
+    opacity: 1;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
